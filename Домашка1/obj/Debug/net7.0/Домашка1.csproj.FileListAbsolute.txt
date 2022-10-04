@@ -1,0 +1,15 @@
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\bin\Debug\net7.0\Домашка1.exe
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\bin\Debug\net7.0\Домашка1.deps.json
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\bin\Debug\net7.0\Домашка1.runtimeconfig.json
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\bin\Debug\net7.0\Домашка1.dll
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\bin\Debug\net7.0\Домашка1.pdb
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\obj\Debug\net7.0\Домашка1.csproj.AssemblyReference.cache
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\obj\Debug\net7.0\Домашка1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\obj\Debug\net7.0\Домашка1.AssemblyInfoInputs.cache
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\obj\Debug\net7.0\Домашка1.AssemblyInfo.cs
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\obj\Debug\net7.0\Домашка1.csproj.CoreCompileInputs.cache
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\obj\Debug\net7.0\Домашка1.dll
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\obj\Debug\net7.0\refint\Домашка1.dll
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\obj\Debug\net7.0\Домашка1.pdb
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\obj\Debug\net7.0\Домашка1.genruntimeconfig.cache
+C:\Users\User\Домашка 1 лекция\домашка\Домашка1\obj\Debug\net7.0\ref\Домашка1.dll
